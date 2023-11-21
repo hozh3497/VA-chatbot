@@ -9,4 +9,4 @@ An example of usage of the modules can be found in the notebook ```chatbot_examp
 The app can be run with chainlit ```run ask.py```, after installing dependencies in ```requirements.txt``` locally. However, the response can be slow.
 
 An example interface for the chatbot when deployed locally:
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/hozh3497/VA-chatbot/blob/main/sample_interface.png?raw=true)
